@@ -1,3 +1,6 @@
+R6800/R6700v2/R6900v2 x86 x86-64 k2 passwall ssrplus+ 
+
+
 # Actions-OpenWrt
 
 [![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=LICENSE)](https://github.com/P3TERX/Actions-OpenWrt/blob/master/LICENSE)
